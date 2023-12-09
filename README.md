@@ -12,6 +12,7 @@ If you choose SQL, you can use any of the SQL methods from class, e.g. direct SQ
 If you choose Mongo, you can use any of the ways we connected, including Mongita and Mongo Atlas.
 
 You should turn in this project as
+
 • A sentence or two describing the project.
 
 • APDF containing the discussions requested below, the source code appearing in plain text (monospaced, etc.), and embedded screen shots of all screens ot the web application. Google Docs can do this easilv and will export a PDF without much effort.
